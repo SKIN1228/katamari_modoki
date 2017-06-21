@@ -1,1 +1,1 @@
-# katamari_modoki
+# katamarimodoki
